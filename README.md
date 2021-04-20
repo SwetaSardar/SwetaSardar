@@ -3,6 +3,7 @@
 </div>
 
 <br />
+
 ## About Me 
 
 My name is **Sweta Sardar**, I'm 20 years old and I'm a student of **Information Technology** at College of Engineering and Technology, Bhubaneswar. I believe in the approach of learning from mistakes and love troubleshooting. I'm always happy to connect with everyone and learn from them.
