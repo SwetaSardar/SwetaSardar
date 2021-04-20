@@ -37,8 +37,29 @@ My name is **Sweta Sardar**, I'm 20 years old and I'm a student of **Information
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-</code>
+  <code><img height="40" src="https://omgfoss.com/wp-content/uploads/2020/01/Red_Hat8.png"></code>
+  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2000px-AWS_Simple_Icons_AWS_Cloud.svg.png"></code>
+  
+  
+ ## Quick Overview
+ 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=SwetaSardar&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwetaSardar&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  ## Thank you for visiting my profile. You're a gem. :gem:
+
+![Visitor Count](https://profile-counter.glitch.me/EmmadiDivyaSrujana/count.svg)
+
+<hr>
 
 [GitHub]: https://github.com/SwetaSardar
 [instagram]: https://instagram.com/sweta_sardar
