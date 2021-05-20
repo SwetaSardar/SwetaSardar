@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <a href="https://www.linkedin.com/in/sweta-sardar-2054211ab/">Sweta 👧</a></h1>
+   <h1>Hi there, I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <a href="https://www.linkedin.com/in/sweta-sardar-2054211ab/">Sweta Sardar 👧</a></h1>
    
 </div>
 
